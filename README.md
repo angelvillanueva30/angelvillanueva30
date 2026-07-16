@@ -1,45 +1,36 @@
-Hi, I'm Angel 👋
+# Hi, I'm Angel! 👋
 
-I'm an aspiring web developer and web designer based in South Jersey.
+### 🚀 Web Developer, Designer & Business Tech Solutions Consultant
+*Based in South Jersey, NJ*
 
-I'm currently building my portfolio while completing Harvard's CS50 and pursuing an Associate's degree in Business Administration.
+I bridge the gap between technical execution and business strategy. I am currently building scalable web solutions while completing **Harvard's CS50 Computer Science program**, pursuing a **Degree in Business Administration**, and completing the **Meta Full Stack Course**.
 
-What I'm Working On
-Building custom websites and WordPress projects
-Learning computer science fundamentals through CS50
-Expanding my HTML, CSS, JavaScript, and Git skills
-Growing my freelance web design portfolio
-Featured Projects
-Portfolio Website
+---
 
-A professional portfolio showcasing my web design and development work.
+### 🛠️ Core Tech Stack & Skills
+**Languages & Frameworks:** HTML5, CSS3, JavaScript (ES6+), PHP, WordPress Core & Custom Child Themes
+**Tools & Platforms:** Git, GitHub, VS Code, WooCommerce, LocalWP
+**Foundations:** Computer Science Fundamentals, Data Structures & Algorithms, Responsive Web Design
 
-Bush Bats
+---
 
-A music and art website featuring original music, paintings, journal entries, and event information.
+### 💻 Featured Projects
 
-Console Critics
+#### 🎨 [Nueva Studio](https://github.com)
+*A professional portfolio showcasing my web design, custom asset management, and development work.*
 
-A custom WordPress content platform focused on gaming and entertainment content.
+#### 🦇 [Bush Bats](https://github.com)
+*An independent music and art archive featuring a customized WooCommerce storefront, audio streaming components, and digital art galleries.*
 
-Nonprofit Organization Website
+#### 🎮 [Console Critics](https://github.com)
+*A custom WordPress content and publication platform optimized for responsive gaming news, media reviews, and rapid blog delivery.*
 
-An ADA-conscious, mobile-first website with event and donation functionality.
+#### 🤝 Nonprofit Organization Website
+*An ADA-conscious, mobile-first website featuring event tracking frameworks and secure donation functionalities.*
 
-Technologies
-HTML
-CSS
-JavaScript
-WordPress
-Git
-GitHub
-VS Code
-Currently Learning
-CS50 Computer Science
-Data Structures & Algorithms
-Full Stack Development
-Responsive Web Design
-Connect With Me
+---
 
-Portfolio: https://nuevastudio.com
-LinkedIn: [(https://www.linkedin.com/in/angel-villanueva-5b2665b2/)]
+### 📫 Connect With Me
+🌐 **Portfolio:** [nuevastudio.com](https://nuevastudio.com)  
+💼 **LinkedIn:** [Angel Villanueva](https://linkedin.com)  
+📸 **Instagram:** [@nuevastudio.nj](https://instagram.com)
